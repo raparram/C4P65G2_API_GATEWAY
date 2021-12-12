@@ -1,5 +1,7 @@
 # C4P65G2_API_GATEWAY
 
+Desarrollada en Apollo y GraphQL
+
 # Para ejecutar la app en local desde VS code
 
 ```
